@@ -22,7 +22,8 @@
 
 
 
-            Console.WriteLine(numbers + numbers1 + numbers2 + numbers3);
+            Console.WriteLine(numbers);
+            Console.WriteLine(numbers1);
 
 
 
